@@ -1,0 +1,30 @@
+body {
+	background-color: seagreen;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+p {
+  text-align: left;
+  color: black;
+  font-family: "Georgia", serif;
+
+} 
+
+.p1 {
+  text-align: center;
+  color: black;
+  font-family: "Georgia", serif;
+
+} 
+
+h1 {text-align: center;
+}
+
+h3 {
+    font-style: italic;
+    text-align: center;
+}
