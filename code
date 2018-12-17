@@ -1,0 +1,51 @@
+<!DOCTYPE html> 
+<html> 
+<head>
+
+	
+	<link rel="stylesheet" type="text/css" href="sylesheet.css">
+
+<h1> Fast Food Restaurants vs. Healthy Food Restaurants </h1>
+
+<h3> Bedford Stuyvesant is much different today from what it once was back when films like Spike Lee’s Do the Right Thing highlighted the neighborhood. The area’s reputation is known for having a plethora of food options from all over like Jamaican, Trinidadian, Mexican, and Chinese. In the midst of gentrification, juice bars are opening up all over the Central Brooklyn neighborhood.  </h3>
+
+<h3> By: Eunice Adekoya </h3>
+</head>
+
+<body>
+
+<img src="food.jpg" alt="Junk vs. Fast" width="400"></img>
+<p class="p1"> Source: Michael Boateng<p class="p1">
+
+
+
+<iframe id="datawrapper-chart-VkDvP" src="https://datawrapper.dwcdn.net/VkDvP/1/" scrolling="no" frameborder="0" 0" style="width: 50; min-width: 80% !important;" height="311"></iframe><script type="text/javascript">if("undefined"==typeof window.datawrapper)window.datawrapper={};window.datawrapper["VkDvP"]={},window.datawrapper["VkDvP"].embedDeltas={"100":661,"200":586,"300":536,"400":536,"500":536,"700":511,"800":511,"900":511,"1000":511},window.datawrapper["VkDvP"].iframe=document.getElementById("datawrapper-chart-VkDvP"),window.datawrapper["VkDvP"].iframe.style.height=window.datawrapper["VkDvP"].embedDeltas[Math.min(1e3,Math.max(100*Math.floor(window.datawrapper["VkDvP"].iframe.offsetWidth/100),100))]+"px",window.addEventListener("message",function(a){if("undefined"!=typeof a.data["datawrapper-height"])for(var b in a.data["datawrapper-height"])if("VkDvP"==b)window.datawrapper["VkDvP"].iframe.style.height=a.data["datawrapper-height"][b]+"px"});</script>
+
+<p>
+	When healthy foods are readily available, it is easier to make healthy food choices. According to the Department of Health, one in three residents of Bedford Stuyvesant live below the poverty level. The cost for healthy foods make a healthier lifestyle unattainable for them. 
+
+</p>
+
+<p> 
+
+	When asked to rate their overall health on a scale of one to five (excellent, very good, good, fair or poor), 77% of Bedford Stuyvesant residents rate their health as “excellent,” “very good” or “good.” This may be a direct effect from the growth of juice bars and smoothie shops in Bedford Stuyvesant. "Honestly, since I've stopped eating meat, I've been going to the juice bars more often. It's helped in this transition", said Najee Warner, 26. 
+
+<P>
+	However, adults in Bedford Stuyvesant are almost three times as likely to consume sugary beverages as Stuyvesant Town and Turtle Bay adults. Adults in Bedford Stuyvesant smoke, consume sugary drinks, eat fruits and vegetables and are physically active at rates similar to residents of Brooklyn and the city as a whole. 
+
+</p>
+
+<P>
+	Obesity can lead to serious health problems such as diabetes and heart disease. At 33%, the rate of obesity in Bedford Stuyvesant is higher than the city rate and over four times the rate in Stuyvesant Town and Turtle Bay. The diabetes rate in Bedford Stuyvesant is 15%, the fifth-highest rate in the city.
+</P>
+
+<p> 
+
+    Exercise is one way to maintain a healthy weight. Federal guidelines say that children should get 60 minutes of exercise per day, adults should get 150 minutes per week, and older adults should get 150 minutes per week as their physical abilities allow, with a focus on exercises to improve balance.
+</p> 
+
+<p>
+	The top causes of death for residents of Bedford Stuyvesant, as for most New Yorkers, are heart disease and cancer. Death rates due to diabetes, HIV and homicide are more than twice the citywide rates.
+</p>
+
+</body>
